@@ -1,0 +1,143 @@
+[
+  {
+    "id": "usajobs:503692300",
+    "position_title": "Supervisory Medical Support Assistant",
+    "organization_name": "Veterans Affairs, Veterans Health Administration",
+    "rate_interval_code": "PA",
+    "minimum": 52465,
+    "maximum": 68209,
+    "start_date": "2018-06-28",
+    "end_date": "2018-07-06",
+    "locations": [
+      "Northport, NY"
+    ],
+    "url": "https://www.usajobs.gov/GetJob/ViewDetails/503692300"
+  },
+  {
+    "id": "usajobs:503692000",
+    "position_title": "Physical Therapist",
+    "organization_name": "Veterans Affairs, Veterans Health Administration",
+    "rate_interval_code": "PA",
+    "minimum": 74200,
+    "maximum": 93280,
+    "start_date": "2018-06-27",
+    "end_date": "2018-07-11",
+    "locations": [
+      "Murfreesboro, TN"
+    ],
+    "url": "https://www.usajobs.gov/GetJob/ViewDetails/503692000"
+  },
+  {
+    "id": "usajobs:503691700",
+    "position_title": "Recreation Aid, NF-0189-01",
+    "organization_name": "Defense Logistics Agency",
+    "rate_interval_code": "PH",
+    "minimum": 10,
+    "maximum": 10,
+    "start_date": "2018-06-27",
+    "end_date": "2018-07-06",
+    "locations": [
+      "New Cumberland Defense Logistics Center, PA"
+    ],
+    "url": "https://www.usajobs.gov/GetJob/ViewDetails/503691700"
+  },
+  {
+    "id": "usajobs:503691600",
+    "position_title": "Business Manager NF-03",
+    "organization_name": "Army Installation Management Command",
+    "rate_interval_code": "PA",
+    "minimum": 40000,
+    "maximum": 50000,
+    "start_date": "2018-06-27",
+    "end_date": "2018-07-31",
+    "locations": [
+      "Joint Base Lewis-McChord, WA"
+    ],
+    "url": "https://www.usajobs.gov/GetJob/ViewDetails/503691600"
+  },
+  {
+    "id": "usajobs:503691400",
+    "position_title": "Business Manager NF-04",
+    "organization_name": "Army Installation Management Command",
+    "rate_interval_code": "PA",
+    "minimum": 55000,
+    "maximum": 60000,
+    "start_date": "2018-06-27",
+    "end_date": "2018-07-05",
+    "locations": [
+      "Joint Base Lewis-McChord, WA"
+    ],
+    "url": "https://www.usajobs.gov/GetJob/ViewDetails/503691400"
+  },
+  {
+    "id": "usajobs:503691200",
+    "position_title": "Automotive Worker NA-08",
+    "organization_name": "Army Installation Management Command",
+    "rate_interval_code": "PH",
+    "minimum": 16,
+    "maximum": 18,
+    "start_date": "2018-06-27",
+    "end_date": "2018-07-31",
+    "locations": [
+      "Joint Base Lewis-McChord, WA"
+    ],
+    "url": "https://www.usajobs.gov/GetJob/ViewDetails/503691200"
+  },
+  {
+    "id": "usajobs:503689100",
+    "position_title": "Physician (FP)",
+    "organization_name": "Indian Health Service",
+    "rate_interval_code": "PA",
+    "minimum": 103395,
+    "maximum": 225000,
+    "start_date": "2018-06-27",
+    "end_date": "2018-07-12",
+    "locations": [
+      "Sisseton, SD"
+    ],
+    "url": "https://www.usajobs.gov/GetJob/ViewDetails/503689100"
+  },
+  {
+    "id": "usajobs:503688900",
+    "position_title": "Physician Assistant (Plastic & Hand Surgery)",
+    "organization_name": "Veterans Affairs, Veterans Health Administration",
+    "rate_interval_code": "PA",
+    "minimum": 70171,
+    "maximum": 157307,
+    "start_date": "2018-06-28",
+    "end_date": "2018-07-12",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "url": "https://www.usajobs.gov/GetJob/ViewDetails/503688900"
+  },
+  {
+    "id": "usajobs:503688800",
+    "position_title": "Interdisciplinary Engineer",
+    "organization_name": "U.S. Army Corps of Engineers",
+    "rate_interval_code": "PA",
+    "minimum": 73375,
+    "maximum": 115157,
+    "start_date": "2018-06-28",
+    "end_date": "2018-07-12",
+    "locations": [
+      "Stockton, CA",
+      "Reno, NV"
+    ],
+    "url": "https://www.usajobs.gov/GetJob/ViewDetails/503688800"
+  },
+  {
+    "id": "usajobs:503688400",
+    "position_title": "Social Worker",
+    "organization_name": "Veterans Affairs, Veterans Health Administration",
+    "rate_interval_code": "PA",
+    "minimum": 61218,
+    "maximum": 79586,
+    "start_date": "2018-06-27",
+    "end_date": "2018-07-17",
+    "locations": [
+      "Eugene, OR"
+    ],
+    "url": "https://www.usajobs.gov/GetJob/ViewDetails/503688400"
+  }
+]

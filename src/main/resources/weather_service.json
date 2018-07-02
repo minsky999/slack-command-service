@@ -1,0 +1,44 @@
+{
+  "data": [
+    {
+      "wind_cdir": "SW",
+      "rh": 88,
+      "pod": "n",
+      "lon": -122.41942,
+      "pres": 1004.8,
+      "timezone": "America/Los_Angeles",
+      "ob_time": "2018-06-29 05:27",
+      "country_code": "US",
+      "clouds": 25,
+      "vis": 10,
+      "state_code": "CA",
+      "wind_spd": 0.45,
+      "lat": 37.77493,
+      "wind_cdir_full": "southwest",
+      "slp": 1012.1,
+      "datetime": "2018-06-29:05",
+      "ts": 1530250020,
+      "station": "D8008",
+      "h_angle": -90,
+      "dewpt": 10.8,
+      "uv": 0,
+      "dni": 0,
+      "wind_dir": 220,
+      "elev_angle": -14.0096,
+      "ghi": 0,
+      "dhi": 0,
+      "precip": null,
+      "city_name": "SF",
+      "weather": {
+        "icon": "c02n",
+        "code": "801",
+        "description": "Few clouds"
+      },
+      "sunset": "03:36",
+      "temp": 12.8,
+      "sunrise": "12:50",
+      "app_temp": 12.8
+    }
+  ],
+  "count": 1
+}
